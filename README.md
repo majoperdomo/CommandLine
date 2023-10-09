@@ -29,7 +29,7 @@ Tus arepitas deben verse algo como así:
 
 *Ahora, con cada mordizquito vamos a aprendernos los principales comandos del cmd-line (Según chat GPT):*
 
-#-> cd (Cambiar directorio):
+-> cd (Cambiar directorio):
 -> cd - Cambia al directorio de inicio del usuario.
 -> cd nombre_directorio - Cambia al directorio especificado.
 -> ls (Listar archivos y directorios):
@@ -50,7 +50,7 @@ Tus arepitas deben verse algo como así:
 -> cat (Concatenar y mostrar contenido de archivos) - Muestra el contenido de un archivo en la terminal.
 -> cat nombre_archivo - Muestra el contenido de un archivo.
 -> echo (Imprimir en la terminal) - Muestra texto en la terminal.
--> echo "Texto a mostrar" - Muestra el texto especificado.#
+-> echo "Texto a mostrar" - Muestra el texto especificado.
 
 
 
