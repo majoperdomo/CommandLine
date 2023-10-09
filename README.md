@@ -28,47 +28,29 @@ Tus arepitas deben verse algo como así:
 *******************************************************************************************************************************************************
 
 *Ahora, con cada mordizquito vamos a aprendernos los principales comandos del cmd-line (Según chat GPT):*
-cd (Cambiar directorio):
-cd - Cambia al directorio de inicio del usuario.
-cd nombre_directorio - Cambia al directorio especificado.
-ls (Listar archivos y directorios):
 
-ls - Lista los archivos y directorios en el directorio actual.
-ls -l - Lista los archivos y directorios en formato detallado.
-ls nombre_directorio - Lista los archivos y directorios en el directorio especificado.
-pwd (Ruta del directorio actual) - Muestra la ruta completa del directorio actual.
-
-mkdir (Crear directorio) - Crea un nuevo directorio.
-
-mkdir nombre_directorio - Crea un directorio con el nombre especificado.
-rm (Eliminar) - Elimina archivos y directorios.
-
-rm nombre_archivo - Elimina un archivo.
-rm -r nombre_directorio - Elimina un directorio y su contenido de manera recursiva.
-cp (Copiar) - Copia archivos y directorios.
-
-cp archivo_origen archivo_destino - Copia un archivo.
-cp -r directorio_origen directorio_destino - Copia un directorio y su contenido de manera recursiva.
-mv (Mover o renombrar) - Mueve o renombra archivos y directorios.
-
-mv archivo_origen archivo_destino - Mueve o renombra un archivo.
-mv nombre_actual nuevo_nombre - Renombra un archivo o directorio.
-touch (Crear archivo vacío) - Crea un nuevo archivo vacío.
-
-touch nombre_archivo - Crea un archivo con el nombre especificado.
-cat (Concatenar y mostrar contenido de archivos) - Muestra el contenido de un archivo en la terminal.
-
-cat nombre_archivo - Muestra el contenido de un archivo.
-more/less (Ver archivos por páginas) - Muestra el contenido de un archivo de manera paginada.
-
-more nombre_archivo - Muestra el contenido de un archivo por páginas.
-less nombre_archivo - Muestra el contenido de un archivo por páginas con más funcionalidad.
-grep (Búsqueda de patrones) - Busca patrones de texto en archivos.
-
-grep patrón nombre_archivo - Busca un patrón en un archivo.
-echo (Imprimir en la terminal) - Muestra texto en la terminal.
-
-echo "Texto a mostrar" - Muestra el texto especificado.
+-> cd (Cambiar directorio):
+-> cd - Cambia al directorio de inicio del usuario.
+-> cd nombre_directorio - Cambia al directorio especificado.
+-> ls (Listar archivos y directorios):
+-> ls - Lista los archivos y directorios en el directorio actual.
+-> ls -l - Lista los archivos y directorios en formato detallado.
+-> ls nombre_directorio - Lista los archivos y directorios en el directorio especificado.
+-> pwd (Ruta del directorio actual) - Muestra la ruta completa del directorio actual.
+-> mkdir (Crear directorio) - Crea un nuevo directorio.
+-> mkdir nombre_directorio - Crea un directorio con el nombre especificado.
+-> rm (Eliminar) - Elimina archivos y directorios.
+-> rm nombre_archivo - Elimina un archivo.
+-> rm -r nombre_directorio - Elimina un directorio y su contenido de manera recursiva.
+-> cp (Copiar) - Copia archivos y directorios.
+-> cp archivo_origen archivo_destino - Copia un archivo.
+-> cp -r directorio_origen directorio_destino - Copia un directorio y su contenido de manera recursiva.
+-> mv (Mover o renombrar) - Mueve o renombra archivos y directorios.
+-> mv archivo_origen archivo_destino - Mueve o renombra un archivo.
+-> cat (Concatenar y mostrar contenido de archivos) - Muestra el contenido de un archivo en la terminal.
+-> cat nombre_archivo - Muestra el contenido de un archivo.
+-> echo (Imprimir en la terminal) - Muestra texto en la terminal.
+-> echo "Texto a mostrar" - Muestra el texto especificado.
 
 
 
